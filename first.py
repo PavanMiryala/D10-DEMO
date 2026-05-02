@@ -1,1 +1,0 @@
-print("pavan has cracked the 10LPA job")
